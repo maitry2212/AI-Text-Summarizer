@@ -1,8 +1,4 @@
-Here’s a clean, ready-to-upload **README.md** file for your GitHub repository describing your **AI Text Summarizer using LangChain + Gemini 2.0 Flash** 👇
-
----
-
-# 🧠 AI Text Summarizer — LangChain + Gemini 2.0 Flash
+# 🧠 AI Text Summarizer 
 
 A **Streamlit-based AI summarization app** that uses **Google’s Gemini 2.0 Flash model** via **LangChain** to summarize text or PDF files intelligently.
 It supports **chunked summarization** for long documents and provides a simple, interactive UI.
