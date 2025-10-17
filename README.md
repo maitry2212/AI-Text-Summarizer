@@ -8,9 +8,13 @@ It supports **chunked summarization** for long documents and provides a simple, 
 ## 🚀 Features
 
 ✅ Summarize large text or PDF documents
+
 ✅ Uses **Google Gemini 2.0 Flash** for fast, efficient summarization
+
 ✅ Supports **chunked summarization** (splits long documents automatically)
+
 ✅ Adjustable **summary length** and **temperature**
+
 ✅ User-friendly **Streamlit interface**
 
 ---
